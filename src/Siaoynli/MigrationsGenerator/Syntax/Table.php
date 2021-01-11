@@ -63,6 +63,7 @@ abstract class Table extends \Way\Generators\Syntax\Table{
 				$output .= '()';
 			}
 		}
+
 		return $output;
 	}
 }
