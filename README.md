@@ -23,12 +23,12 @@ php artisan migrate:generate
 Changelog for Laravel Migrations Generator
 
 
-###  v1.0.1
+###  v1.0.3
 fork from  https://github.com/oscarafdev/migrations-generator
 fix bug
+support  laravel 8+
 
 ## Thank You
-
 Thanks to Jeffrey Way for his amazing Laravel-4-Generators package. This package depends greatly on his work.
 
 
